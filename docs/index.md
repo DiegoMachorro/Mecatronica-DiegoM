@@ -1,4 +1,4 @@
-# Documentación del Proyecto de Diego y Raul 42
+# Documentación del Proyecto de Diego y Raul 
 
 ## Diego Machorro Lucero
 Buen razonamiento matemático, gusto por los videojuegos, la física, las ciencias  y los animales. Buen promedio en el bachillerato.
