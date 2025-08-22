@@ -1,4 +1,4 @@
-# Documentación del Proyecto de Diego y Raul 2
+# Documentación del Proyecto de Diego y Raul 42
 
 <img src="../recursos/imgs/adios.jpeg" width="520">
 
