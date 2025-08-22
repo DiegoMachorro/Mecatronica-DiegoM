@@ -1,6 +1,6 @@
 # Documentación del Proyecto de Diego y Raul 2
 
-<img src="../recursos/imgs/hola.jpeg" width="520">
+<img src="../recursos/imgs/adios.jpeg" width="520">
 
 Bienvenido 👋  
 Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) para cursos y proyectos.
