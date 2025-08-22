@@ -1,6 +1,6 @@
 # Documentación del Proyecto de Diego y Raul 42
 
-##Diego Machorro Lucero
+## Diego Machorro Lucero
 
 <img src="recursos/imgs/hola.jpeg" alt="Diagrama del sistema" width="420">
 
