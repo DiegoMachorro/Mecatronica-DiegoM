@@ -8,7 +8,7 @@ Buen razonamiento matemático, gusto por los videojuegos, la física, las cienci
 
 ## Raul Everardo Zarate Ramirez
 Gusto por los videojuegos, dormir, y habilidades sociales destacables. 
-No reprobó bachillerato.
+Ser una parte importante para las personas a mi alrededor, puesto que soy buen apoyo emocional.
 
 <img src="recursos/imgs/adios.jpeg" alt="Diagrama del sistema" width="420">
 
