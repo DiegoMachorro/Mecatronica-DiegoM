@@ -1,6 +1,6 @@
 # Documentación del Proyecto de Diego y Raul 2
 
-![Diagrama del sistema](recursos/imgs/hola.jpeg)
+<img src="../recursos/imgs/hola.jpeg" alt="Diagrama del sistema" width="420">
 
 Bienvenido 👋  
 Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) para cursos y proyectos.
