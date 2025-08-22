@@ -1,4 +1,4 @@
-# Documentación del Proyecto de Diego 2
+# Documentación del Proyecto de Diego y Raul 2
 
 ![Diagrama del sistema](recursos/imgs/ibero.jpeg)
 
