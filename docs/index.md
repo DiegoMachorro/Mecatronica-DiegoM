@@ -1,6 +1,6 @@
 # Documentación del Proyecto de Diego y Raul 2
 
-![Diagrama del sistema](recursos/imgs/ibero.jpeg)
+![Diagrama del sistema](recursos/imgs/hola.jpeg)
 
 Bienvenido 👋  
 Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) para cursos y proyectos.
