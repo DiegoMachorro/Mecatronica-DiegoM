@@ -35,5 +35,6 @@ parte importante para las personas a mi alrededor, puesto que soy buen apoyo emo
 
 Correo: 203352@iberopuebla.mx
 Teléfono celular: 2229060329
+
 <img src="recursos/imgs/adios.jpeg" alt="Diagrama del sistema" width="420">
 
