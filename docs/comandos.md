@@ -19,6 +19,6 @@ Se realizó un circuito utilizando el temporizador 555, un componente que sirve 
 ```
 ### Circuito funcionando:
 
-[ACTIVIDAD 1 - CIRCUITO INTEGRADO 555](https://drive.google.com/drive/folders/1ec7uEY3SMC7nvdSfJ0pyFeDPBmCli1VA?usp=drive_link)
+[ACTIVIDAD 1 - CIRCUITO INTEGRADO 555](https://drive.google.com/file/d/11rtEH46hbZ4b_MJ7sXlEFG6Nf94rg91V/view?usp=drive_link)
 
 
