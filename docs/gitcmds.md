@@ -1,6 +1,7 @@
-# 🚀 Comandos básicos de Git (primeros pasos)
+# Actividad 3
 
-En este curso solo usaremos los comandos esenciales de Git para trabajar con repositorios.
+## SERVOMOTOR Y SUS MOVIMIENTOS
+
 
 ---
 
