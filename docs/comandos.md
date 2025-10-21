@@ -19,7 +19,7 @@ Se realizó un circuito utilizando el temporizador 555, un componente que sirve 
 ```
 ### Circuito funcionando:
 
-[Enlace directo](https://drive.google.com/drive/folders/1ec7uEY3SMC7nvdSfJ0pyFeDPBmCli1VA?usp=drive_link)
+[ACTIVIDAD 1 - CIRCUITO INTEGRADO 555](https://drive.google.com/drive/folders/1ec7uEY3SMC7nvdSfJ0pyFeDPBmCli1VA?usp=drive_link)
 
 
 
