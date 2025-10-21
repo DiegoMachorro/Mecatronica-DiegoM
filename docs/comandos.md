@@ -2,9 +2,23 @@
 
 ## Circuito realizado con temporizador 555
 
-### Descripción
+### Descripción: 
 
-Se realizó un circuito utilizando el temporizador 555, un componente que sirve para generar señales y/o tiempos eléctricas dentro de un circuito
+Se realizó un circuito utilizando el temporizador 555, un componente que sirve para generar señales y/o tiempos eléctricas dentro de un circuito.
+
+### Materiales utilizados: 
+
+``` codigo
+- Osciloscopio
+   * A fin de monopolizar la variación de señal eléctrica en el circuito
+- Protoboard
+- Cables jumper
+- Resistencias
+- Temporizador 555
+
+```
+### Circuito funcionando:
+
 
 # Título H1
 ## Título H2
