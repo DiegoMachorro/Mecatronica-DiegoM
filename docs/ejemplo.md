@@ -44,7 +44,7 @@ void loop() {
 
 - Evidencia del circuito funcionando:
 
-[Actividad 2.1 - Blink con Led](https://drive.google.com/drive/folders/1fLmiHB1gkVZZLsNywqt2sOrRLXvxQG3Q?usp=sharing)
+[Actividad 2.1 - Blink con Led](https://drive.google.com/file/d/1LXZV0so5a3dUTwqdLFNa5d4aUa7WNIQv/view?usp=drive_link)
 
 
 
