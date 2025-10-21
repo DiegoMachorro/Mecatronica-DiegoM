@@ -19,10 +19,7 @@ Se realizó un circuito utilizando el temporizador 555, un componente que sirve 
 ```
 ### Circuito funcionando:
 
-<video width="640" height="360" controls>
-  <source src="archivos/Video 555.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+[Enlace directo](https://drive.google.com/drive/folders/1ec7uEY3SMC7nvdSfJ0pyFeDPBmCli1VA?usp=drive_link)
 
 
 
