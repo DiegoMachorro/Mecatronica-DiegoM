@@ -90,7 +90,7 @@ void loop() {
 
 - Evidencia del circuito funcionando:
 
-[Actividad 2.2 - Led con botón](https://drive.google.com/drive/folders/1aC3Q5-pyUJP2hyZs8ruMTmd-gZ6fMlOq?usp=drive_link)
+[Actividad 2.2 - Led con botón](https://drive.google.com/file/d/16Qu_pZ0OqtqflzPSLu3yw9gzybQpr3q4/view?usp=drive_link)
 
 
 
@@ -143,7 +143,7 @@ void loop() {
 
 - Evidencia del circuito funcionando:
 
-[Actividad 2.3 - Encendido de Led con Bluetooth](https://drive.google.com/drive/folders/1ZdQ_fbuJxkkOxfBI8oWq_iaE3THkvvJV?usp=drive_link)
+[Actividad 2.3 - Encendido de Led con Bluetooth](https://drive.google.com/file/d/1oa08l0cdOH5XTEUL8SRzve_bLO0OeRZT/view?usp=drive_link)
 
 
 
