@@ -1,10 +1,10 @@
-# Encabezados
+# Actividad 1
 
-``` codigo
-# Título H1
-## Título H2
-### Título H3
-```
+## Circuito realizado con temporizador 555
+
+### Descripción
+
+Se realizó un circuito utilizando el temporizador 555, un componente que sirve para generar señales y/o tiempos eléctricas dentro de un circuito
 
 # Título H1
 ## Título H2
