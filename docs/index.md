@@ -1,5 +1,14 @@
 # Presentación
 
+- Nombre del proyecto: Introducción a la Mecatrónica
+  
+- Equipo / Autor(es): Carlos Diego Machorro Lucero y Raul Everardo Zarate Ramirez
+
+- Descripción breve: Esta será una documentación donde estarán todos los trabajos y temas vistos en todo el semestre, así como lo que se aprendió de ellos.
+
+
+
+
 ## - Diego Machorro Lucero
 
 ## ¿Quién soy? 
