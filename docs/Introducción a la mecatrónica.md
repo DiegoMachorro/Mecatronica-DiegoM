@@ -16,11 +16,11 @@ El temporizador 555 es un circuito integrado muy usado en electrónica por su ve
 Puede trabajar en tres modos principales:
 
 ``` codigo
-- ⚙️ Monoestable: genera un solo pulso de duración determinada (por ejemplo, para retardos o temporizadores).
+- Monoestable: genera un solo pulso de duración determinada (por ejemplo, para retardos o temporizadores).
 
-- 🔁 Astable: genera una señal continua (onda cuadrada), útil como reloj, parpadeo de LEDs o generador de tonos.
+- Astable: genera una señal continua (onda cuadrada), útil como reloj, parpadeo de LEDs o generador de tonos.
 
-- 🔄 Biestable: funciona como un interruptor controlado por señales externas (flip-flop).
+- Biestable: funciona como un interruptor controlado por señales externas (flip-flop).
 ```
 
 Usos comunes (informacion adicional):
@@ -60,6 +60,33 @@ Se usa para crear proyectos interactivos que pueden leer información del entorn
 |pinMode(pin, modo)        | Configura un pin como entrada.                |
 |digitalWrite(pin, valor)  | Envía un valor a un pin de salida.            |
 |delay(ms)                 | Definir pausas por cantidad de milisegundos.  |
+
+
+### Motores
+
+- Los motores son dispositivos que convierten energía eléctrica en movimiento mecánico. Se usan para generar giro o desplazamiento en robots, ventiladores, vehículos y muchos otros sistemas mecatrónicos.
+
+- MÓDULO L298N
+
+El L298N es un puente H doble (driver) que permite controlar la dirección y velocidad de dos motores DC o un motor paso a paso usando señales de un microcontrolador.
+
+Su importancia radica en que:
+
+``` codigo
+
+- Permite alimentar los motores con una fuente externa (ya que Arduino no puede suministrar suficiente corriente por sí solo).
+
+- Controla el sentido de giro (hacia adelante o atrás).
+
+- Regula la velocidad mediante señales PWM.
+
+- Protege el microcontrolador de sobrecargas eléctricas.
+
+``` 
+
+
+
+
 
 
 
